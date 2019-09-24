@@ -1,4 +1,5 @@
 //resposta aqui
+<<<<<<< HEAD
 
 /* - Crie uma variável que irá guardar o array com nome e valor dos produtos
 - Crie uma variável 'posicao' para guardar o produto escolhido pelo usuário
@@ -25,3 +26,5 @@ var produtoSelecionado = produto[posicao]
 var desconto = produtoSelecionado.preco * (porcentagem / 100)
 
 console.log("Produto " + produtoSelecionado.nome + " com desconto é R$ " + desconto.toFixed(2))
+=======
+>>>>>>> a86e4fa1c34c3889402c12ab8be1928879764075
