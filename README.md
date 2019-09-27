@@ -23,11 +23,10 @@ O cronograma pode ser alterado caso necessário.
 - let e const
 - funções úteis do js
 
-
 ### Aula 4
 - Estrutura de repetição
 - Desafios
 
 ### Aula 5
-- Estrutura de repetição
+- [Relembrando...](https://docs.google.com/presentation/d/116HgPhDyWnn41gpTRPsBYI3i8qXMDL3cjVozoZmqwWU/edit?usp=sharing)
 - Desafios
