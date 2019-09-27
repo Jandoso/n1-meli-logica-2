@@ -62,3 +62,5 @@ do{
     passos = passos + novosPassos
 }while(passos <= 500);
 
+
+
