@@ -41,7 +41,7 @@ Exemplo:
 Recebendo: [5, 350, 15, 36, 5000, 30, 90, 1, 88, 450]
 Ordenando: [5000, 450, 350, 90, 88, 36, 30, 15, 5, 1] */
 
-/* function bubllesort(recebendo){
+ function bubllesort(recebendo){
     let swap;
     let last = recebendo.length - 1
     do {
